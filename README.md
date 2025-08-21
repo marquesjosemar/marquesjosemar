@@ -1,30 +1,16 @@
 
 
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Olá! Sou o Josemar Marques</h1>
 <h3 align="center">Seja bem-vindo ao meu Github</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github.com/marquesjosemar&theme=" alt="github.com/marquesjosemar" /></a> </p>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/josemar-marques-9bb599236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/github.com/marquesjosemar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Conecte-se comigo aqui:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/josemar-marques-9bb599236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josemar-marques-9bb599236/" height="30" width="40" /></a></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/marquesjosemar/marquesjosemar/github-readme-stats)
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
